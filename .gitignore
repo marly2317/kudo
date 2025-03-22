@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+cr/
+*.env
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.h5
